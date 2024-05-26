@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
-### Jobbing 😮
+### Hi there, I am Elia. 👋
 
 <!--
 **eliainnocenti/eliainnocenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
