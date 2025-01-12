@@ -1,6 +1,14 @@
 <!--### Hi there 👋 -->
 ### Hi there, I am Elia. 👋
 
+- Currently pursuing Master's in Cybersecurity (L-32), Politecnico di Torino
+- Bachelor's in Computer Engineering (L-8), Università degli Studi di Firenze
+
+### How to reach me:
+- Email: [elia.innocenti@studenti.polito.it](mailto:elia.innocenti@studenti.polito.it)
+- LinkedIn: [@eliainnocenti](https://linkedin.com/in/eliainnocenti)
+- X: [@eliainnocenti](https://x.com/eliainnocenti)
+
 <!--
 **eliainnocenti/eliainnocenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
