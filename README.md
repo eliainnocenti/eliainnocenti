@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ### Hi there, I am Elia. 👋
 
-- Currently pursuing Master's in Cybersecurity (L-32), Politecnico di Torino
+- (currently studying) Master's in Cybersecurity (L-32), Politecnico di Torino
 - Bachelor's in Computer Engineering (L-8), Università degli Studi di Firenze
 
 ### How to reach me:
