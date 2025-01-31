@@ -8,8 +8,7 @@
 
 | Email | GitHub | LinkedIn | X |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| [![Email](https://img.shields.io/badge/Email-Send-blue?logo=gmail)](mailto:elia.innocenti@studenti.polito.it) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/eliainnocenti) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eliainnocenti/) | [![X](https://img.shields.io/badge/X-Profile-black?logo=x)](https://x.com/eliainnocenti) | ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
-
+| [![Email](https://img.shields.io/badge/Email-Send-blue?logo=gmail)](mailto:elia.innocenti@studenti.polito.it) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/eliainnocenti) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eliainnocenti/) | [![X](https://img.shields.io/badge/X-Profile-black?logo=x-twitter)](https://x.com/eliainnocenti) |
 
 <!--
 **eliainnocenti/eliainnocenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
