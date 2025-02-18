@@ -8,7 +8,7 @@
 
 - [**`neo-CAOS`**](https://github.com/neo-CAOS): Group for the **CAOS** Project @ Polito.
 - [**`ML4Net`**](https://github.com/ML4Net): Group for the **ML4N** Project @ Polito.
-- [**`WDCSecure`**](https://github.com/WDCSecure): Group for the **WD2DCS** Project @ Polito.
+- [**`WDCSecure`**](https://github.com/WDCSecure): Group for the **WD2DCS** Reports @ Polito.
 
 ### How to reach me:
 
