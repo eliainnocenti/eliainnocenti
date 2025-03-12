@@ -9,6 +9,7 @@
 - [**`neo-CAOS`**](https://github.com/neo-CAOS): Group for the **CAOS** Project @ Polito.
 - [**`ML4Net`**](https://github.com/ML4Net): Group for the **ML4N** Project @ Polito.
 - [**`WDCSecure`**](https://github.com/WDCSecure): Group for the **WD2DCS** Reports @ Polito.
+- [**`Spaghetti-Overflow`**](https://github.com/Spaghetti-Overflow): Group for competitions and challenges.
 
 ### How to reach me:
 
