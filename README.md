@@ -11,6 +11,10 @@
 - [**`WDCSecure`**](https://github.com/WDCSecure): Group for the **WD2DCS** Reports @ Polito.
 - [**`Spaghetti-Overflow`**](https://github.com/Spaghetti-Overflow): Group for competitions and challenges.
 
+### Welcome to My Projects
+
+This repository contains an organized index of all my projects and repositories. You can find the detailed index in the [index.md](resources/index.md) file located in the `resources` directory.
+
 ### How to reach me:
 
 [![Email](https://img.shields.io/badge/Email-Send-blue?logo=gmail)](mailto:elia.innocenti@studenti.polito.it) &nbsp;&nbsp;
