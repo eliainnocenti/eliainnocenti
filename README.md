@@ -14,7 +14,7 @@
 ### Welcome to My Projects
 
 This repository contains an organized index of all my projects and repositories.  
-You can find the detailed [`index`](resources/index.md) in the `resources` directory.
+You can find the detailed [**`index`**](resources/index.md) in the `resources` directory.
 
 ### How to reach me:
 

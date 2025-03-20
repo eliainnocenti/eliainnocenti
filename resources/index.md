@@ -13,8 +13,8 @@ This document provides an organized index of all the repositories in my [**`GitH
 | Wireless and Device-to-Device Communication Security | [`WD2DCS-Laboratories`](https://github.com/eliainnocenti/WD2DCS-Laboratories) | 2024/2025 | Public |
 | Hardware and Embedded Security | [`HES-Laboratories`](https://github.com/eliainnocenti/HES-Laboratories) | 2024/2025 | Public |
 | Cryptography | [`Cryptography-Exercises`](https://github.com/eliainnocenti/Cryptography-Exercises) | 2024/2025 | Public |
-| Web Applications | [`WebApplications-Material`](https://github.com/eliainnocenti/WebApplications-Material) | 2024/2025 | Private |
-| ESCAPE Seminars | [`ESCAPE-Reports`](https://github.com/eliainnocenti/ESCAPE-Reports) | 2024/2026 | Public |
+| Web Applications | [`WebApplications-Material`](https://github.com/eliainnocenti/WebApplications-Material) | 2024/2025 | Public |
+| ESCAPE Seminars | [`ESCAPE-Reports`](https://github.com/eliainnocenti/ESCAPE-Reports) | 2024/2026 | Private |
 
 ## Unifi Projects (Università degli Studi di Firenze)
 
